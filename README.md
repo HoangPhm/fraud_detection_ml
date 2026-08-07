@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection — ML Pipeline (Role A)
+# Credit Card Fraud Detection — ML Pipeline
 
 ## Dataset
 
@@ -101,11 +101,7 @@ reports/
 metrics.json
 ```
 
-## Bàn giao cho B (API/Deployment)
 
-- `preprocessing.py`, `feature_engineering.py`, `predict.py`
-- `models/best_model.pkl`, `models/scaler.pkl`
-- `metrics.json`, `reports/model_comparison.csv`
 
 **Contract:**
 ```python
