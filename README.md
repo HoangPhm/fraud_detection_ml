@@ -12,7 +12,7 @@
 
 **Đặc điểm quan trọng nhất:** dữ liệu mất cân bằng cực đoan — fraud chỉ chiếm
 **0.173%** (492/284,807 dòng), tỷ lệ ~1:577. Toàn bộ pipeline được thiết kế
-xoay quanh đặc điểm này (xem `business_understanding.md`).
+xoay quanh đặc điểm này (xem `docs/business_understanding.md`).
 
 ## Feature Engineering
 
