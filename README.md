@@ -87,7 +87,7 @@ train.py                  # Train 4 model baseline
 tune.py                   # Hyperparameter tuning (XGBoost)
 evaluate.py                # Đánh giá đầy đủ + chọn threshold
 explainability.py          # Feature Importance + SHAP
-predict.py                 # Hàm bàn giao cho B (contract API)
+predict.py                 # Hàm (contract API)
 models/
   best_model.pkl
   scaler.pkl
